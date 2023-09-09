@@ -10,4 +10,6 @@ The repository contains Python files, namely:
 
 3. Todo_Alaska_foodcost: This is a todo submission that calculates the total cost of purchasing food at Alaska restaurant.
 
+4. Azubi_store_code.py: This is a todo submission on lists in python and making analysis of the data provided.
+
 Learning Git has been fun. Thanks to the teacher William, who came through when I reached out for help.
